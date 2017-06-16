@@ -1,5 +1,5 @@
 {
-	"name": "zaingithub/Router",
+	"name": "zaingithub/router",
 	"description": "Simple PHP router class.",
 	"license": "MIT",
 	"require": {
