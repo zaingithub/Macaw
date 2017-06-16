@@ -1,5 +1,5 @@
 {
-	"name": "noahbuscher/macaw",
+	"name": "zaingithub/Router",
 	"description": "Simple PHP router class.",
 	"license": "MIT",
 	"require": {
@@ -7,6 +7,6 @@
 	},
 	
 	"autoload": {
-		"psr-4": {"NoahBuscher\\Macaw\\": ""}
+		"psr-4": {"zaingithub\\Router\\": ""}
 	}
 }
